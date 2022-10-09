@@ -1,5 +1,5 @@
 # drum-kit
-Fun web application. Open to drum like a real drummer :sunglasses:!  
+Fun web application. Open demo and use keyboard to drum like a real drummer :sunglasses:!  
 
 [see the demo](https://dev-choivlad.github.io/drum-kit/ "Click to open the demo")
 
